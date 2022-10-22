@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/bin/Debug/net6.0/askingQuestions
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/bin/Debug/net6.0/askingQuestions.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/bin/Debug/net6.0/askingQuestions.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/bin/Debug/net6.0/askingQuestions.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/bin/Debug/net6.0/askingQuestions.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/refint/askingQuestions.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/askingQuestions.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/Debug/net6.0/ref/askingQuestions.dll
