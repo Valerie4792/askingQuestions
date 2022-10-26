@@ -2,6 +2,7 @@
 //October 22, 2022
 //----------Adding Two Numbers -----------//
 
+// --- Reviewed by Mauricio Zavala -- Great job!
 
 bool playAgain = true;
 bool validInput = true;

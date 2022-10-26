@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/val/.nuget/packages/": {}
+    "C:\\Users\\Mauricio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/askingQuestions.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ValAskingQuestions\\askingQuestions\\askingQuestions.csproj",
       "projectName": "askingQuestions",
-      "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/askingQuestions.csproj",
-      "packagesPath": "/Users/val/.nuget/packages/",
-      "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/askingQuestions/askingQuestions/obj/",
+      "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ValAskingQuestions\\askingQuestions\\askingQuestions.csproj",
+      "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ValAskingQuestions\\askingQuestions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/val/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
